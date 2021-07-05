@@ -1,0 +1,76 @@
+/* Menu principal */
+#menu ul {
+	padding:0px;
+	margin:0px;
+	background-color:#EDEDED;
+	list-style:none;
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li a {
+	padding: 2px 10px;
+	display: inline-block;
+ 	background-color:#EDEDED;
+	color: #333;
+	text-decoration: none;
+	border-bottom:3px solid #EDEDED;
+}
+
+#menu ul li a:hover {
+	background-color:#D6D6D6;
+	color: #6D6D6D;
+	border-bottom:3px solid #EA0000;
+}
+/* Menu principal -------- FIM */
+
+/* Menu secundario */
+#menu2 ul {
+	padding:0px;
+	margin-top: 5px;
+	background-color:#BEBEBE;
+	list-style:none;
+}
+
+#menu2 ul li { display: inline; }
+
+#menu2 ul li a {
+	padding: 2px 10px;
+	display: inline-block;
+ 	background-color:#BEBEBE;
+	color: #333;
+	text-decoration: none;
+	border-bottom:3px solid #BEBEBE;
+}
+
+#menu2 ul li a:hover {
+	background-color:#D6D6D6;
+	color: #6D6D6D;
+	border-bottom:3px solid #EA0000;
+}
+/* Menu secundario -------- FIM */
+
+#conteudo {
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+#rodape {
+	position: relatives;
+	bottom: 0;
+	background-color:#EDEDED;
+	}
+	
+
+h1 {
+	margin-right: 20px;
+	margin-top: 30px;
+}
+
+
+h2 {
+	margin-right: 20px;
+	margin-top: 30px;
+}
